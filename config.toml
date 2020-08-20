@@ -1,13 +1,9 @@
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
-
 defaultContentLanguage = "en"
-
-# The name of this wonderful theme ;-).
 theme = "hugo-scroll"
-
-# The "title" of your website
 title = "Wysocki Consulting - IT Architecture, and trainings"
+publishDir = "docs"
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
