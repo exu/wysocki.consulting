@@ -16,7 +16,7 @@ Please look at my Linked In profile, you're also pleased to add yourself to my p
 
 You can look also at [testimonials](/testimonials) and check what my previous partners are thinking about me
 
-#### When should you contact?
+##### When should you contact?
 
 I'm recently intereseted in cooperation with *modern* companies which are open for changes.
 I'm able to speed up your development processes.
